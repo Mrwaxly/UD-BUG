@@ -4,11 +4,11 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923165123719"
-global.ownername = "Umar Rehman"
-global.ytname = "DarkDevil404"
-global.socialm = "GitHub: Um4r719"
-global.location = "Chaklala Scheme 3 Rawalpindi,Pakistan"
+global.ownernomer = "905352586556"
+global.ownername = "burakcan"
+global.ytname = "error"
+global.socialm = "error"
+global.location = "error"
 
 global.ownernumber = '923165123719'  //creator number
 global.ownername = '𝙐 𝙈 𝘼 𝙍 💛' //owner name
